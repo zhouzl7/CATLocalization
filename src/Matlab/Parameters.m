@@ -1,0 +1,15 @@
+sampling_frequency = 44100;
+clip_time = 0.04;
+doppler_frequency = 5000;
+A = 0.4;
+k = 0.007;
+begin_frequency_1 = 2000;
+end_frequency_1 = 4000;
+begin_frequency_2 = 8000;
+end_frequency_2 = 10000;
+wave_speed = 340;
+clip_count = 100;
+blank_time_right = 0.06;
+blank_time_left = 0.05;
+fft_length = 65536;
+shift = 100;
